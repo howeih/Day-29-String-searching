@@ -1,0 +1,6 @@
+[package]
+name = "string_searching"
+version = "0.1.0"
+authors = ["howard.huang <howard.huang@funp.com>"]
+
+[dependencies]
